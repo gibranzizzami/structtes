@@ -20,7 +20,7 @@ volume: "1"
 number: 1
 section: ""
 source: analisa-dan-implementasi-linux.pdf
-doi: https://doi.org/10.15408/insaniyat.v10i1.46785
+doi: https://doi.org/10.15408/insaniyat.v10i1.46785 
 license: ""
 description: "Dalam beberapa tahun terakhir perangkat lunak Sistem Operasi Open Sorce menempati posisi diatas yang banyak mengambil perhatian para ahli"
 ---

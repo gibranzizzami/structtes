@@ -7,12 +7,11 @@ terms:
   - basic concept
   - frist sql syntax
 format: documentation
-thumb: ""
+thumb: "cover.jpg"
 publisher : 
   - yuros
 language:
   - en.us
-source: 
 license: ""
 author:
   - agoy

@@ -12,6 +12,11 @@ terms:
   - Brontosaurus
 publisher:
   - bambu apus
+dimension: "25cm"
+material:
+  - besi
+  - kayu
+identifier: 1990.08.009
 index: 
     llm: false
     seo: true
